@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PriorityQ
+comment0.text=\r\n\ PriorityQueue\ class\r\n\ \r\n\ @author\ Jack\ Ajizian\r\n\ @version\ 10/25/2018\r\n\ \r\n
+comment1.params=
+comment1.target=PriorityQ()
+comment2.params=cust
+comment2.target=void\ add(PriorityCustomer)
+comment3.params=
+comment3.target=PriorityCustomer\ remove()
+comment4.params=
+comment4.target=PriorityCustomer\ head()
+comment5.params=
+comment5.target=int\ getSize()
+numComments=6
